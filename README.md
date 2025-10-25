@@ -7,7 +7,7 @@ Additional entries will be migrated from my private collection following a quali
 
 Add this repository as a submodule to your LaTeX project:
 
-```sh
+```shell
 $ git submodule add git@github.com:MatthiasEckhart/bibliography.git
 ```
 
